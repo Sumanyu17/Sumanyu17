@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumanyu Chaudhary.
 - 👀 I’m interested in Latest technologies.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently working with MEAN stack.
 - 📫 To reach me drop a mail on sumanyuchaudhary@gmail.com.
 - ⚽ I love playing football and table tennis.
 
